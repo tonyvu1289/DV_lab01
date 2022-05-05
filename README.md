@@ -10,3 +10,7 @@ pip install numpy pandas geopandas matplotlib seaborn shapely fiona pyproj rtree
 ```
 Then go to Jupyter Lab or Jupyter Notebook or Visual Studio Code with IPython Plugins to run the `main.ipynb` file.
 
+*or* 
+
+Use `environment.yml` file to install environment. 
+Then go to Jupyter Lab or Jupyter Notebook or Visual Studio Code with IPython Plugins to run the `main.ipynb` file.
